@@ -11,10 +11,10 @@
 - 테마에 따라 화면 변경
 - 테마에 따라 앱 아이콘 변경
 
-# 개인정보 처리 방침/privacy policy
+# Privacy policy
 
-이 앱은 수집하는 개인정보가 없습니다.
-This app does not collect any personal information.
+- 이 앱은 수집하는 개인정보가 없습니다.
+- This app does not collect any personal information.
 
 # Technical Skills
 
