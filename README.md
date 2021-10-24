@@ -16,6 +16,12 @@
 - 이 앱은 수집하는 개인정보가 없습니다.
 - This app does not collect any personal information.
 
+## [ Update ]
+
+- 1.1.0 : 플립카드 테마 추가
+- 1.0.1 : 내부 버그 수정
+- 1.0.0 : 앱 스토어 출시
+
 # Technical Skills
 
 - Localization ( ko, en )
