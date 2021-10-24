@@ -1,4 +1,4 @@
-# TTickTTock-Counter
+# 띡똑 카운터
 
 [![띡똑 카운터](https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store-kr.svg)](https://apps.apple.com/ao/app/띡똑-카운터/id1530767180)
 
